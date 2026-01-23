@@ -13,5 +13,5 @@ PyQuiz is a Command Line Interface (CLI) tool designed to help Python tutors che
 
 - `project.py`: The main application logic.
 - `questions.json`: The database of technical questions.
-- `results.txt`: The persistent log of student scores.
+- `results.csv`: The persistent log of student scores.
 - `test_project.py`: Pytest suite to ensure the grading logic is 100% correct.
